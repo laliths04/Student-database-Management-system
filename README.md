@@ -1,4 +1,4 @@
-#🎓 Student Database Management System (SDBMS)#
+🎓 Student Database Management System (SDBMS)
 
 A lightweight desktop application built using Python and PyQt5 to manage student records with an intuitive interface, secure authentication, and data export features.
 
